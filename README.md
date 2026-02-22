@@ -83,20 +83,5 @@ display(Image('taxi_agent_behavior.gif'))
 4. Derive the **optimal policy** by taking the argmax of Q-values.
 5. Test the policy and record frames to create a GIF.
 
----
-
-## 📝 License
-
-This project is licensed under the **MIT License**.
-
-```
-
----
-
-💡 **Tips for GitHub:**
-
-1. Put your **training/testing code** in separate Python files (`train_taxi.py` and `test_taxi.py`) for clarity.  
-2. Add the **GIF** (`taxi_agent_behavior.gif`) to the repo so it shows in README.  
-3. Push everything to GitHub and your project will look professional with a working demo GIF.  
 
 
